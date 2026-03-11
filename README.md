@@ -36,4 +36,5 @@ Certaines parties du code ne sont pas publiques pour des raisons de propriété 
 ## Auteur
 
 Mouhamadou Gorgui Cissé
+
 coFounder & CEO — SunuLink
